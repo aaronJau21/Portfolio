@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_backend",
+  "version": "1.0.0",
+  "description": "Backend of my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronJau21/Portfolio.git"
+  },
+  "keywords": [
+    "EXPRESS",
+    "JWT",
+    "PRISMA",
+    "POSTGRES"
+  ],
+  "author": "Aaron Alonso Jauregui Sifuentes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronJau21/Portfolio/issues"
+  },
+  "homepage": "https://github.com/aaronJau21/Portfolio#readme"
+}
